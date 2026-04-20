@@ -2,6 +2,10 @@
 
 Solución al reto Testimonials grid section https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7 de Frontend Mentor.
 
+## Vista previa
+
+https://philivg.github.io/Testimonials-Grid-Section/
+
 ## Construido con
 
 - HTML5
